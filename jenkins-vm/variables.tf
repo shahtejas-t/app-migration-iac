@@ -1,5 +1,5 @@
 variable "project" {
-  description = "app-migration-poc"
+  description = "project-08-05-2023"
 }
 
 variable "prefix" {

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "app-migration-poc",
+  "private_key_id": "31e278498decdd7f4fb141bbee26811d2988b99e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDPN1VO4IQphGa6\nkesRG5slq4zr5ahDExXnM6qELts3StAKVHw2dAUxebfk0yAYM2I/mGPVnT3+wpt7\nlMW3hr4+ad0JBizjURKrSsX4vbEK5xO6jqWgaRtSIuzi81GRlG5rxUcroA/MJ49T\nn4AnJp4UiNDYshnZPqZ4+QCb9L5D7uchE7/b9uFV4J57l+Q7aovgRtmFcKa51tsr\nCnNcytYZ383JWuJOAOOoNFh+wC2Kcdty502KMVLXYLFooqCgSSfkIk8d605FWZON\n6NtSDILuOLwiiGPszWV9sAgWBMvdvMGhSHO4ZkiQ0fqkJW/ia7alkrOVWu1VZSwY\nKHv26qLxAgMBAAECggEAAce06OeO2xhzFXk5br0w+QLfRAuGBYV9c64C8f3BDlmL\nLfuJ0aHvhXxJMyMJLIwMdQVnHieqp6yeT1J43FnA+qJILtKpwg4pPeV3i+p9Qd24\nUqr1C0q73FnGdTCn67s9s5lPQjWuzQ8t8Qb2v99aDk0aljH5fN9H6NQiyDQzCjxY\nL/ugc5Nmi20ZDZoIdK+uWd00hG/tJFXTkdFsAEYEB+Ash9gSdbScG1Mj3DD/m0tO\n29xrD7hTbYQaISBaVrOkSZ0VJ8RgdvpTS2vIxXCmfNi6eQ7b+E+b37JiXgRUatIH\nL82tRnykyn4DMzVMGh4MvDrjE2KxEWlSfKx8UK+6wQKBgQD+L4I6fj9/H4hloYiW\n3DUj1flxLaTHeKXoN0WKAdva75UqaeQ1A8elta5YVk1vgG7juxkPiG05qMGPt3qv\nwqKlk16dMnYYbfLoW+N+HKHNvbRf8Le7PLmNozbvRo0K6pR5mQA5t/3dsQPXO0ly\nIYTyRRMo+9vj2xmGVoTTqN3BOQKBgQDQsf5z/r/348AhzGEfkvukRLToRzml17at\nFskWDhSVXDdbEPrbxWrj8fTdcxWeiAEUSaP9YCs/53JG38WDQbHhsBWltgPiA5ph\npe9zYyaI22N52P8GvBdllT2ATRrLy2U1d0rrQ0le/XNWPIbR6cGMUh6Mv8whh8Jf\nR1XoVx/HeQKBgQCCkOTUJwV2xzvI+LCwzWx+e+slt8xsqgyOu9V8jnfgfjChGMOg\nd9CVzj1AIxSjsdVEJVc6I1n3xDepGxZqMhBZ/Nkc5k7DPbcIpCq3HP4AMPH2VjAK\nfabSmoQdZKAOe3DJBU6YV2qP9d2DMXEIry8bQ2AULUtGP8VcvBR+pL9EAQKBgEYl\nTa2XVtbvSkkR9SMzuDlCjrv0FMBVfSU4n2Y2XVzGniSR1H/CH2d2kCNO51ldxV8Y\nUXJ8vIzCMnr4A99WWX/OO7hzMWLqax2fNJjIHs+pTgpKkY2l8wdF3mIdiIAvYVlT\nO29QMn0nG3lE5tvvggq0H2iXnvk2NHLp+0oY3qmhAoGBAJUhEcNMvqFcQSmw9ZFC\nhExMbW/Tpmq5knpSmmvEwn0sFJc+0j29BtYgphSwFqVw7E+ONlbYVFW06SVHvPGI\njQFd5obQ1eam3Y4nzj8bMAT5MSwqIH6PVm5jtuqH69pRVF7Y8sdc2OM9QmnDRW02\ns910z8V4YLeXpIetYfDymrYd\n-----END PRIVATE KEY-----\n",
+  "client_email": "app-migration-sa@app-migration-poc.iam.gserviceaccount.com",
+  "client_id": "105495533503476239721",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/app-migration-sa%40app-migration-poc.iam.gserviceaccount.com"
+}
