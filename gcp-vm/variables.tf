@@ -23,6 +23,16 @@ variable "subnet_prefix" {
 
 variable "machine_type" {
   description = "Specifies the GCP instance type."
-  default     = "g1-small"
-  # default     = "e2-micro"
+  # default     = "g1-small"
+  default     = "n2-standard-2"
+}
+
+variable "machine_os" {
+  description = "Specifies the OS type for machine."
+  default     = "ubuntu-os-cloud/ubuntu-2204-lts"
+}
+
+variable "allowed_ports" {
+  description = "Specifies the Allowed outbound ports."
+  default     = ["22", "80", "3000", "3306", "8080"]
 }

@@ -5,7 +5,6 @@ provider "registry.terraform.io/hashicorp/google" {
   version     = "4.27.0"
   constraints = "4.27.0"
   hashes = [
-    "h1:6cSnbwlHbLHaQZb116WfspEfhL5Y+f2n0jypjPgK4iA=",
     "h1:bKba6xHbZTkhnOby8HgmlmofNUdvlMq1MTE2yAA4dIQ=",
     "zh:0ec41ae6810de7e1dbf8c8926523fb2cb6947f62932152c82c2c52ca2d9880be",
     "zh:28349b499a631e15a02eb9603c659ec894cd50149be6b90c3b35b11980a234a2",
