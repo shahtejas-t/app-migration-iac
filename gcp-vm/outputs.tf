@@ -15,6 +15,6 @@ output "ssh_ip" {
   value = google_compute_instance.erp_app.network_interface[0].access_config[0].nat_ip
 }
 
-output "ssh_password" {
-  value = google_compute_instance.erp_app.metadata["password"]
-}
+# output "ssh_password" {
+#   value = google_compute_instance.erp_app.metadata["password"]
+# }
